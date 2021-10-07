@@ -11,7 +11,6 @@
 
 Este projeto foi feito utilizando as seguintes tecnologias:
 
-- [React](https://reactjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
 
 
